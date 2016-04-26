@@ -1,0 +1,13 @@
+/* 
+    Created on : Apr 25, 2016, 4:27:34 PM
+    Author     : Mohamed Labib <m.ali.labib@gmail.com>
+*/
+
+.has-comments li.no-comments {
+    display: none;
+}
+
+.required:after { 
+    content:" *"; 
+    color:red; 
+}

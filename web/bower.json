@@ -1,0 +1,10 @@
+{
+  "name": "basic-commenting-system",
+  "version": "1.0.0",
+  "homepage": "https://github.com/lebaz20/basic-commenting-system.git",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.x",
+    "linkifyjs": "^2.0.0"
+  }
+}
