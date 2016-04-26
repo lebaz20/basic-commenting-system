@@ -23,8 +23,8 @@ For example a host for Apache2, would be as follows :
 
         ServerName local-commenting-system.com
 
-        DocumentRoot /var/www/github/basic-commenting-system
-        <Directory "/var/www/github/basic-commenting-system">
+        DocumentRoot /var/www/github/basic-commenting-system/web
+        <Directory "/var/www/github/basic-commenting-system/web">
                 AllowOverride All
                 Order Allow,Deny
                 Allow from All
